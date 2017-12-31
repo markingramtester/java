@@ -2,7 +2,7 @@ class Args
 {
 	public static void main( String[] args )
 	{
-		if(args.length != 3) //perform code if there are NOT 3 arguments
+		if(args.length != 3) //perform code if there are NOT 3 arguments in the input
 		{
 			System.out.println( "Wrong number of arguments" ) ;  //text if NOT 3 arguments
 			return ;
