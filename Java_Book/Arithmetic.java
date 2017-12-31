@@ -1,6 +1,6 @@
 class Arithmetic
 {
-	public static void main ( String[] args ) //this code performs sums
+	public static void main ( String[] args ) //this example code performs sums
 	{
 		int num = 100 ;
 		int factor = 20 ;
