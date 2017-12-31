@@ -2,7 +2,7 @@ class Array
 {
 	public static void main( String[] args )
 	{
-		String[] str = { "Much ", "More ", "Java "} ;
+		String[] str = { "Much ", "More ", "Java "} ; //example of how a simple array works
 		
 		int [] num = new int[3] ;
 		
