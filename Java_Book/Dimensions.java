@@ -2,7 +2,7 @@ class Dimensions
 {
 	public static void main( String[] args )
 	{
-		boolean[][] points = new boolean[5][20];
+		boolean[][] points = new boolean[5][20]; //Integer has 5 values in first argument and 20 in second
 		
 		points[0][5] = true;
 		points[1][6] = true;
@@ -11,9 +11,9 @@ class Dimensions
 		points[4][9] = true;
 		
 		
-		for( int i = 0 ; i < points.length ; i++)
+		for( int i = 0 ; i < points.length ; i++) //uses first argument to do loop 5 times
 		{
-					for ( int j = 0 ; j < points[0].length ; j++) 
+					for ( int j = 0 ; j < points[0].length ; j++) //uses argumnet 2 to plot a point
 		{
 			char mark = ( points[i][j] ) ? 'X' : '-' ;
 			System.out.print ( mark ) ;
