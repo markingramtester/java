@@ -1,5 +1,6 @@
 JAVA
 cd C:\Users\mark\dev\java\Java_Book //change to java file directory
+cd C:\Users\mark\dev\java\Java_Book\CLASS //change to CLASS file directory
 javac -d C:\Users\mark\dev\java\Java_Book\CLASS //compile file to CLASS folder
 
 GITBASH
