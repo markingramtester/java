@@ -1,11 +1,11 @@
 class Logic
 {
-	public static void main ( String[] args )
+	public static void main ( String[] args ) //example code for logic operators: && is AND, || is OR, ! is NOT
 	{
 		boolean yes = true ;
 		boolean no = false ;
 		
-		System.out.println( "Both YesYes True: " + ( yes && yes)) ;
+		System.out.println( "Both YesYes True: " + ( yes && yes)) ; 
 		System.out.println( "Both YesNo True: " + ( yes && no)) ;
 		
 		System.out.println( "Either YesYes True: " + ( yes || yes)) ;
