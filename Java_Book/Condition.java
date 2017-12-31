@@ -1,6 +1,6 @@
 class Condition
 {
-	public static void main ( String[] args )
+	public static void main ( String[] args ) //Example code to demonstrate conditional output
 	{
 		int num1 = 1357 ;
 		int num2 = 2468 ;
