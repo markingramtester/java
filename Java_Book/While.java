@@ -1,6 +1,6 @@
 class While
 {
-	public static void main( String[] args )
+	public static void main( String[] args ) //example of a while loop
 	{
 		int num = 100 ;
 		
