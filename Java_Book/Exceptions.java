@@ -1,6 +1,6 @@
 class Exceptions
 {
-	public static void main( String[] args )
+	public static void main( String[] args ) //Example code to shw the use of exception catching
 	{
 		try
 		{
