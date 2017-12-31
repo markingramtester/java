@@ -1,9 +1,0 @@
-JAVA
-cd C:\Users\mark\dev\java\Java_Book //change to java file directory
-javac -d C:\Users\mark\dev\java\Java_Book\CLASS //compile file to CLASS folder
-
-GITBASH
-git add . //add new files to commit 
-git commit -m "[TEXT]" //add new files to git with comment in the sqaure brackets
-git push //push new files to GitHub
-git pull //pull new files from GitHub
