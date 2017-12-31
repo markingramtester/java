@@ -1,6 +1,6 @@
 class Label
 {
-	public static void main( String[] args )
+	public static void main( String[] args ) //code to give parts of program a label and call it 
 	{
 		outerLoop : for (int i = 1 ; i < 4 ; i++)
 		{
