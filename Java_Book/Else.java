@@ -1,6 +1,6 @@
 class Else
 {
-	public static void main ( String[] args )
+	public static void main ( String[] args ) //Example oce with an else statement
 	{
 		int hrs = 21 ;
 		
