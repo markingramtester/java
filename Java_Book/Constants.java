@@ -3,7 +3,7 @@
 */
 class Constants
 {
-	public static void main ( String[] args )
+	public static void main ( String[] args ) //Example code using constants instead of variables
 	{
 		// Constant score variables
 		final int TOUCHDOWN = 6 ;
