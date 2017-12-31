@@ -1,6 +1,6 @@
 class For
 {
-	public static void main ( String[] args )
+	public static void main ( String[] args ) //Example code with a FOR Loop
 	{
 		int num = 0 ;
 		
