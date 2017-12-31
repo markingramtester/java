@@ -1,6 +1,6 @@
 class Comparison
 {
-	public static void main ( String[] args )
+	public static void main ( String[] args ) //Example code to demonstrate comparision statements
 	{
 		String txt = "Fantastic " ;
 		String lang = "Java" ;
