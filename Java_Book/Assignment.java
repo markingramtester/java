@@ -1,6 +1,6 @@
 class Assignment
 {
-	public static void main ( String[] args )
+	public static void main ( String[] args ) //Example code using variable throughout program
 	{
 		String txt = "Fantastic " ;
 		String lang = "java" ;
