@@ -1,6 +1,6 @@
 class DataTypes
 {
-	public static void main ( String[] args )
+	public static void main ( String[] args ) //Example code with variable types
 	{
 		char letter = 'M' ;
 		String title = "Java in easy steps" ;
