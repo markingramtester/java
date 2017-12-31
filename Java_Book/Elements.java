@@ -1,6 +1,6 @@
 class Elements
 {
-	public static void main( String[] args )
+	public static void main( String[] args ) //Example coee that adds certain parts of an integer
 	{
 		int[] kiosk_q1 = {42000, 48000, 50000} ;
 		int[] kiosk_q2 = {52000, 58000, 60000} ;
@@ -15,7 +15,7 @@ class Elements
 		
 		for ( int i = 0 ; i < kiosk_q1.length ; i++)
 		{
-			sum[i] = kiosk_q1[i] + outlet_q1[i] ;
+			sum[i] = kiosk_q1[i] + outlet_q1[i] ; //Adds the first arg for each, then second etc
 			sum[i+3] = kiosk_q2[i] + outlet_q2[i] ;
 			sum[i+6] = kiosk_q3[i] + outlet_q3[i] ;
 			sum[i+9] = kiosk_q4[i] + outlet_q4[i] ;
