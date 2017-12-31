@@ -1,6 +1,6 @@
 class Escape
 {
-	public static void main ( String[] args )
+	public static void main ( String[] args ) //Example coe showing how to use tabs and new lines
 	{
 		String header = "\n\tNEW YORK 3-DAY FORECAST:\n" ;
 		header += "\n\tDay\t\tHigh\tLow\tConditions\n" ;
