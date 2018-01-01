@@ -1,6 +1,6 @@
 class Power
 {
-	public static void main( String[] args ) //Example code demonstrates power and sqaure root functions
+	public static void main( String[] args ) //Example code demonstrates power and square root functions
 	{
 		int num = Integer.parseInt( args[0]) ; //ets integer from command line
 		int square = (int) Math.pow( num, 2) ; 
