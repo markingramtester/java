@@ -36,10 +36,10 @@ class Constructor
 {
 	public static void main(String[] args)
 	{
-		Car Porsche = new Car();
+		Car Porsche = new Car(); //Creates an instance of Car using default values
 		Porsche.getCar();
 
-		Car Ferrari = new Car();
+		Car Ferrari = new Car(); //Creates an instance of Car using custom values
 		Ferrari.setCar("Ferrari","Red","Sport");
 		Ferrari.getCar();
 	}
