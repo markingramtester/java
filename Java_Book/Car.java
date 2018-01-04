@@ -5,7 +5,7 @@ class Car
 		
 		public static String accelerate()
 		{
-				String motion = "Accelrating..." ;
+				String motion = "Accelerating..." ;
 				return motion ;
 		}
 }
