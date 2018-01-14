@@ -1,7 +1,7 @@
 JAVA
-cd C:\Users\mark\dev\java\Java_Book //change to java file directory
-cd C:\Users\mark\dev\java\Java_Book\CLASS //change to CLASS file directory
-javac -d C:\Users\mark\dev\java\Java_Book\CLASS //compile file to CLASS folder
+cd C:\Users\marki\dev\java\Java_Book //change to java file directory
+cd C:\Users\marki\dev\java\Java_Book\CLASS //change to CLASS file directory
+javac -d C:\Users\marki\dev\java\Java_Book\CLASS //compile file to CLASS folder
 
 GITBASH
 git clone [repo URL] //to clone repo from GitHub to laptop
@@ -9,3 +9,8 @@ git add . //add new files to commit
 git commit -m "[TEXT]" //add new files to git with comment in the sqaure brackets
 git push //push new files to GitHub
 git pull //pull new files from GitHub
+
+COMMAND PROMPT
+mkdir [NAME] //makes folder in current directory
+dir > [NAME] //makes file in current directory
+start notepad [NAME] //opens file in current directory
