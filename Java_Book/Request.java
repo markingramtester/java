@@ -20,7 +20,7 @@ class Request extends JFrame implements ActionListener
 		pnl.add( btn1 ) ;			
 		pnl.add( btn2 ) ;
 
-		btn1.addActionListener(this);		
+		btn1.addActionListener(this); 
 		btn2.addActionListener(this);
 
 		setVisible( true );
