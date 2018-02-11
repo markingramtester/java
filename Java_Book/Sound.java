@@ -22,7 +22,7 @@ class Sound extends JFrame implements ActionListener
 		pnl.add( playBtn );
 		pnl.add( stopBtn );
 		
-		playBtn.addActionListener(this);	
+		playBtn.addActionListener(this);
 		stopBtn.addActionListener(this);
 
 		setVisible(true);		
