@@ -41,6 +41,6 @@ class Messages extends JFrame implements ActionListener
 
 	public static void main( String[] args )
 	{
-		Messages gui = new Messages();
+		Messages gui = new Messages(); 
 	}
 }
